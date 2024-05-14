@@ -68,7 +68,7 @@ const Formulario = () => {
                 <label 
                     htmlFor="nombre"
                     className="text-gray-700 uppercase font-bold"
-                >Nombre nombre</label>
+                >Nombre mascota</label>
                 <input 
                     type="text" 
                     id="nombre"
